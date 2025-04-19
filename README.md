@@ -19,4 +19,4 @@ This repository contains the server-side code for integrating Razorpay payment p
    git clone https://github.com/Ragulram004/Razorpay-API.git
    cd server
    npm install
-   ```
+   ``` 
